@@ -149,7 +149,12 @@ I'm always open to collaborating or learning together:
 Would you like me to:
 
 ✅ Add badges (like GitHub stars, last update, license)?
+
+
 ✅ Help create a GitHub profile README to feature this?
+
+
 ✅ Design a simple project banner for your repo?
+
 
 Let me know!
