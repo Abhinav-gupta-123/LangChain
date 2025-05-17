@@ -16,8 +16,14 @@ This repository is my open learning journal where I document everything I explor
 When I started learning LangChain, I noticed that many tutorials were either too theoretical or lacked clear, hands-on guidance. So, I built this repo to:
 
 ✅ Create a **beginner-friendly learning path**
+
+
 ✅ Share **notebooks with working code and explanations**
+
+
 ✅ Explore **real use-cases** as I build understanding
+
+
 ✅ Help other learners like me to get started easily
 
 ---
