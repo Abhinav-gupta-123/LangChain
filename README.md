@@ -1,5 +1,3 @@
-Thanks, Abhinav! I've now updated your `README.md` to include your **LinkedIn** and **Gmail contact info** in a clean and professional way. Here's your **final refined version**, ready to use:
-
 ---
 
 # 🦜🔗 LangChain Learning Journey by Abhinav Gupta
